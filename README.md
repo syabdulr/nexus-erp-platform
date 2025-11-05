@@ -77,6 +77,8 @@ It enables users to create purchase requisitions (PRs), automatically synchroniz
 | 14 | Deploy services to Azure App Service – E2E mock loop operational |
 
 ### **Week 3 – Analytics & Cloud-Native Enhancements**
+| Day | Focus |
+|----:|-------|
 | 15 | Design DB schema for PR/PO records |
 | 16 | Add analytics API (endpoints for KPIs) |
 | 17 | Optional React/Streamlit dashboard |
@@ -86,6 +88,8 @@ It enables users to create purchase requisitions (PRs), automatically synchroniz
 | 21 | Integrate Application Insights + Prometheus exporters |
 
 ### **Week 4 – DevOps, Security & Hardening**
+| Day | Focus |
+|----:|-------|
 | 22 | CI/CD pipeline (GitHub Actions – build/test/deploy) |
 | 23 | Add Terraform/Bicep for infra provisioning |
 | 24 | Integrate Azure AD login (OIDC) |
@@ -95,10 +99,10 @@ It enables users to create purchase requisitions (PRs), automatically synchroniz
 | 28 | Write automated tests + integration validation scripts |
 
 ### **Final 2 Days – Packaging & Presentation**
+| Day | Focus |
+|----:|-------|
 | 29 | Complete diagrams, README, and technical documentation |
 | 30 | Record demo walk-through and final GitHub push |
-
----
 
 ## 8. Repository Structure
 
